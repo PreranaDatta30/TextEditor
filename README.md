@@ -10,8 +10,7 @@ The TextEditor is a lightweight, offline text editor built using Java (TM)25.0.1
 **Language:** JAVA SE( JDK 17)
 **GUI Framework:** Swing, AWT.
 **Architecture:** MVC(Model-View-Controller)
-## Project Structure
-This project follows a strict package structure for modularity.
+
 
 ## How to run:
 This project uses a named package(texteditor), one must compile and run it from th parent directory.
@@ -31,6 +30,9 @@ java texteditor.Main
 *Saving window:
 <img width="625" height="440" alt="image" src="https://github.com/user-attachments/assets/0db221b7-be03-486a-9651-34aede36ca4c" />
 
+
+## Project Structure
+This project follows a strict package structure for modularity.
 ```text
 /texteditor
   ├── Main.java             # Entry point of the application
