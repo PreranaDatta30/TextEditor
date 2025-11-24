@@ -23,11 +23,11 @@ javac texteditor/*.java
 java texteditor.Main
 
 ## Screenshots:
-*GUI:
+* GUI:
 <img width="622" height="623" alt="image" src="https://github.com/user-attachments/assets/2b588601-7992-421f-8563-0d0717396bbd" />
-*Textual content:
+* Textual content:
 <img width="621" height="618" alt="image" src="https://github.com/user-attachments/assets/dc5d6cdb-de26-4c5b-96c3-9b1a029db0c2" />
-*Saving window:
+* Saving window:
 <img width="625" height="440" alt="image" src="https://github.com/user-attachments/assets/0db221b7-be03-486a-9651-34aede36ca4c" />
 
 
