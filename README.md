@@ -18,5 +18,29 @@ This project follows a strict package structure for modularity.
   ├── EditorWindow.java     # View: Handles the GUI (JFrame, Menus)
   ├── EditorController.java # Controller: Handles user actions & listeners
   ├── FileService.java      # Model: Handles File I/O (Reader/Writer)
-  └── AppConstants.java     # Utilities: Static configuration strings
+  └── AppConstants.java     # Utilities: Static configuration strings/```
+
+## How to run:
+This project uses a named package(texteditor), one must compile and run it from th parent directory.
+* Clone or Download the repository.
+* Open Command Prompt or Terminal.
+* Navigate to the folder containing the texteditor folder(eg. cd Desktop/JavaProject)
+* Compile the code:
+javac texteditor/*.java
+* Run the application:
+java texteditor.Main
+
+## Screenshots:
+*GUI:
+<img width="622" height="623" alt="image" src="https://github.com/user-attachments/assets/2b588601-7992-421f-8563-0d0717396bbd" />
+*Textual content:
+<img width="621" height="618" alt="image" src="https://github.com/user-attachments/assets/dc5d6cdb-de26-4c5b-96c3-9b1a029db0c2" />
+*Saving window:
+<img width="625" height="440" alt="image" src="https://github.com/user-attachments/assets/0db221b7-be03-486a-9651-34aede36ca4c" />
+
+
+
+
+
+
 
